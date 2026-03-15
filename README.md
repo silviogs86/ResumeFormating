@@ -100,6 +100,14 @@ The structure of the template was defined together with the client. For example,
 
 After the document was generated, it was automatically shared with the recruiter so they could review it, make any necessary edits, and send it to the client.
 
+Doc template in Spanish
+![alt text](https://github.com/silviogs86/ResumeFormating/blob/main/Pictures/Doc%201%20spanish.png)<br>
+
+
+Doc template in English
+![alt text](https://github.com/silviogs86/ResumeFormating/blob/main/Pictures/Doc%201%20english.png)<br>
+
+
 ## Google Sheet
 
 The Google Sheet served as both the default response log for the Google Form and a lightweight operational control panel for the solution.
