@@ -61,7 +61,7 @@ Once the API returned the structured résumé content, the script inserted the o
 
 To complete the workflow, the recruiter received both an **email notification** and a **Google Chat notification** confirming that the document had been created and was ready for review.
 
-![Flowchart placeholder](YOUR_IMAGE_LINK_HERE)
+![alt text](https://github.com/silviogs86/ResumeFormating/blob/main/Pictures/Design.png)<br>
 
 ## Google Form
 
